@@ -10,7 +10,9 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    // Add some new lines here for changes to commit
+    // Commmit 1. Add some new lines here for changes to commit, after creating of the description line on github.
+    
+    // Commit 2. Creating a commit after creating a Read Me file on github to make the local repository out of sync.
     
     override func viewDidLoad() {
         super.viewDidLoad()
